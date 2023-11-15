@@ -1,6 +1,6 @@
 ## FizzBuzz
 
-[x] Escribir un programa que al pasarle un número:
+- [x] Escribir un programa que al pasarle un número:
 
 - Muestra "fizz" si el número es divisible por 3
 - Muestra "buzz" si el número es divisible por 5
@@ -17,7 +17,7 @@ La configuración de las máquinas es un string. Podemos reconfigurarla para que
 
 Pero tiene limitaciones: al reemplazar el carácter se debe mantener el orden, no se puede asignar al mismo carácter a dos letras distintas (pero sí a si mismo) y, claro, la longitud del string debe ser el mismo.
 
-[] Necesitamos una función que nos diga si podemos reconfigurar una máquina para que de un regalo pueda pasar a fabricar otro según las reglas mencionadas. Lo mejor es que veamos un ejemplo:
+- [x] Necesitamos una función que nos diga si podemos reconfigurar una máquina para que de un regalo pueda pasar a fabricar otro según las reglas mencionadas. Lo mejor es que veamos un ejemplo:
 
 const from = 'BAL'
 const to = 'LIB'
