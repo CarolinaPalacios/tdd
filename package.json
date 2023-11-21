@@ -7,9 +7,7 @@
     "first-tests"
   ],
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "devDependencies": {
     "standard": "17.1.0"
   },
